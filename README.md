@@ -11,4 +11,6 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 
 If you have any questions or want to know more about the project, you can reach out to the creator, Kumar Gaurav, on LinkedIn at: https://www.linkedin.com/in/kgaurav152/
 
+A video explanation of the code can be seen on youtube via the link : https://youtu.be/JABhMjSM86w
+
 # Basic_Banking_System
